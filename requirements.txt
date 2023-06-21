@@ -1,3 +1,4 @@
 tensorflow
 tensornetwork
 numpy
+qiskit
