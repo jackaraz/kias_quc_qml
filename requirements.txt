@@ -2,3 +2,4 @@ tensorflow
 tensornetwork
 numpy
 qiskit
+pennylane
