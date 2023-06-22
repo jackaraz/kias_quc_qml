@@ -3,3 +3,5 @@ tensornetwork
 numpy
 qiskit
 pennylane
+numpy
+matplotlib
