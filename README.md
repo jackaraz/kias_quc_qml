@@ -17,4 +17,8 @@ python3 -m pip install -r requirements.txt
 * `examples_tns.ipynb`: includes ML examples using tensor networks.
 * `vqe.ipynb`: includes examples on variational quantum eigensolver.
 * `vqt.ipynb`: includes an example on variational quantum thermaliser.
-* `time_evolution.ipynb`: includes examples on quantum simulation.
+* `time_evolution.ipynb`: includes examples of quantum simulation.
+
+## Project
+
+The `project_chemical_potential.ipynb` file includes a student project based on simulating phase transitions with VQE for a non-linear sigma model with chemical potential.
